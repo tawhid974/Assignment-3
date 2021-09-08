@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.btn-login{
+    background: #E76F51;
+    ;
+}
+.btn-purchase{
+    background: #E76F51;
+}
+.bike-collection{
+    color: #E76F51;
+    font-size: 14px;
+}
+hr{
+    width: 58.5px;
+    border: 1px solid #E76F51;
+    border-radius: 1px;
+    margin: auto;
+}
+.gray-color img{
+    filter: grayscale(100%);
+    transition: .3s;
+}
+.btn-read-more{
+    background: #E76F51;
+}
+.btn-read-more2{
+    background: #ffffff;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+}
+span{
+    color: #E76F51;
+}
+span a{
+    color: #E76F51;
+}
+.happy-client img{
+    width: 100px;
+    height: 100PX;
+}
+
+
